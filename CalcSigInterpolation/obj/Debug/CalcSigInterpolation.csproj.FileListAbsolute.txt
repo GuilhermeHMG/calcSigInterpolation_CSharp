@@ -1,0 +1,14 @@
+C:\Users\Guilherme\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\bin\Debug\CalcSigInterpolation.exe.config
+C:\Users\Guilherme\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\bin\Debug\CalcSigInterpolation.exe
+C:\Users\Guilherme\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\bin\Debug\CalcSigInterpolation.pdb
+C:\Users\Guilherme\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.csprojAssemblyReference.cache
+C:\Users\Guilherme\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.exe
+C:\Users\Guilherme\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.pdb
+C:\Users\guilherme.goncalves\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\bin\Debug\CalcSigInterpolation.exe.config
+C:\Users\guilherme.goncalves\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\bin\Debug\CalcSigInterpolation.exe
+C:\Users\guilherme.goncalves\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\bin\Debug\CalcSigInterpolation.pdb
+C:\Users\guilherme.goncalves\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.csprojAssemblyReference.cache
+C:\Users\guilherme.goncalves\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.goncalves\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.exe
+C:\Users\guilherme.goncalves\OneDrive\Estudos\Cursos_extracurriculares\Devmedia\Cursos\Dot.NET\EXERCÍCIOS\CalcSigInterpolation\CalcSigInterpolation\obj\Debug\CalcSigInterpolation.pdb
